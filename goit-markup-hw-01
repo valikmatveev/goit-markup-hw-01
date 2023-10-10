@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>-page site for Webstudio</title>
+</head>
+
+<body>
+
+    <header>
+        <a href="..."><span>Web</span><span>Studio</span></a>
+        <nav>
+            <a href="...">Студія</a>
+            <a href="...">Портфоліо</a>
+            <a href="...">Контакти</a>
+        </nav>
+        <a href="mailto:...">info@devstudio.com</a>
+        <a href="tel:+380961111111">+38 096 111 11 11</a>
+    </header>
+    <main>
+        <section>
+            <H1>ЕФЕКТИВНІ РІШЕННЯ ДЛЯ<br>ВАШОГО БІЗНЕСУ</H1>
+            <button type="button">Замовити послугу</button>
+        </section>
+
+        <section>
+            <h2 hidden>Переваги</h2>
+            <Article>
+                <h3>УВАГА ДО ДЕТАЛЕЙ</h3>
+                <p>Ідейні міркування, і навіть початок повсякденної роботи з формування позиції.</p>
+            </Article>
+            <Article>
+                <h3>ПУНКТУАЛЬНІСТЬ</h3>
+                <p>Завдання організації, особливо рамки і місце навчання кадрів тягне у себе.</p>
+            </Article>
+            <Article>
+                <h3>ПЛАНУВАННЯ</h3>
+                <p>Так само консультація з широким активом значною мірою зумовлює.</p>
+            </Article>
+            <Article>
+                <h3>СУЧАСНІ ТЕХНОЛОГІЇ</h3>
+                <p>Значимість цих проблем настільки очевидна, що реалізація планових завдань.</p>
+            </Article>
+        </section>
+
+        <section>
+            <h2>Чим ми займаємося</H2>
+            <ul>
+                <li><img src="/images/1.png" alt="Робота за ноутбуком" width="370" height="294" /></li>
+                <li><img src="/images/2.png" alt="Робота з телефоном" width="370" height="294" /></li>
+                <li><img src="/images/3.png" alt="Робота з планшетом" width="370" height="294" /></li>
+            </ul>
+        </section>
+
+        <section>
+            <H2>Наша команда</H2>
+            <ul>
+                <li>
+                    <figure>
+                        <img src="/images/igor.png" alt="Фото Ігоря" width="270" height="260" />
+                        <h3>Ігор Дем'яненко</h3>
+                        <figcaption>Product Designer</figcaption>
+                    </figure>
+                </li>
+                <li>
+                    <figure>
+                        <img src="/images/olga.png" alt="Фото Ольги" width="270" height="260" />
+                        <h3>Ольга Рєпіна</h3>
+                        <figcaption>Frontend Developer</figcaption>
+                    </figure>
+                </li>
+                <li>
+                    <figure>
+                        <img src="/images/mykola.png" alt="Фото Миколи" width="270" height="260" />
+                        <h3>Микола Тарасов</h3>
+                        <figcaption>Marketing</figcaption>
+                    </figure>
+                </li>
+                <li>
+                    <figure>
+                        <img src="/images/myhailo.png" alt="Фото Михайла" width="270" height="260" />
+                        <h3>Михайло Єрмаков</h3>
+                        <figcaption>UI Designer</figcaption>
+                    </figure>
+                </li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <a href="..."><span>Web</span><span>Studio</span></a>
+        <address>м. Київ, пр-т Лесі Українки, 26</address>
+        <address>info@devstudio.com</address>
+        <address>+38 096 111 11 11</address>
+    </footer>
+
+</body>
+
+</html>
